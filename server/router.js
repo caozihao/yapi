@@ -418,6 +418,8 @@ let routerConfig = {
 	]
 }
 
+
+
 let pluginsRouterPath = [];
 
 function addPluginRouter(config) {
